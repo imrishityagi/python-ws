@@ -1,3 +1,5 @@
+# Summary: in this tutorial, we will learn about the basic Python syntax so that you can get started with the Python language quickly.
+
 # Indentation - Python uses whitespace and indentation to construct the code structure.
 # define main function to print out something
 def main():
